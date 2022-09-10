@@ -6,8 +6,8 @@
           "title": "Laravel development with laravel 9",
           "description": "best framework for web development",
           "location": "Kabul",
-          "date": "22/7/2022",
-          "time": "3:00 PM",
+          "date": "22, 7 2022",
+          "time": "3:00",
           "organizer": "netlink",
         },
         {
@@ -16,8 +16,8 @@
           "title": "Laravel development with laravel 8",
           "description": "best framework for web development",
           "location": "Kabul",
-          "date": "22/5/2022",
-          "time": "5:00 PM",
+          "date": "22, 5 2022",
+          "time": "5:00",
           "organizer": "netlink",
         },
         {
@@ -26,8 +26,8 @@
           "title": "Laravel development with laravel 7",
           "description": "best framework for web development",
           "location": "Kabul",
-          "date": "24/8/2022",
-          "time": "4:00 PM",
+          "date": "24,8 2022",
+          "time": "4:00",
           "organizer": "netlink",
         }
       ]
